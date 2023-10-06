@@ -1,7 +1,7 @@
 import React, { useState, useEffect } from "react";
 import "./homepage.css";
 import Modal from "react-bootstrap/Modal";
-import astronautHeader from "../../img/astronoimg.jpg";
+import astronautHeader from "../../imges/astronoimg.jpg";
 
 const My_Key_NASA = "3PVomsvKGw5CkxFwyOMKCPNA4fASj1ulMj2NUHtU";
 
